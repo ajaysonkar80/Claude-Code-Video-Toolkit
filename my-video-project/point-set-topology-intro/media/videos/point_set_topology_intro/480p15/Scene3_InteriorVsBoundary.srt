@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:02,000
+This splits the space in two: the interior, points with a ball fully inside S.
+
+2
+00:00:02,000 --> 00:00:04,000
+and the boundary, points whose every ball meets both S and its complement.
+
+3
+00:00:04,000 --> 00:00:05,800
+Shade the interior blue, and highlight the boundary circle in red.
+
+4
+00:00:05,800 --> 00:00:08,300
+The blue region is the interior; the red rim is the boundary.
+
+5
+00:00:08,333 --> 00:00:11,733
+An open set satisfies S equals its interior: the boundary contributes nothing to it.
+

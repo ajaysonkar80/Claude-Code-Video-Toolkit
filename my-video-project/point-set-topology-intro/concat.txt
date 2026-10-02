@@ -1,0 +1,4 @@
+file 'media/videos/point_set_topology_intro/480p15/Scene1_AmbientSetAndBall.mp4'
+file 'media/videos/point_set_topology_intro/480p15/Scene2_OpenSetsAndNeighborhoods.mp4'
+file 'media/videos/point_set_topology_intro/480p15/Scene3_InteriorVsBoundary.mp4'
+file 'media/videos/point_set_topology_intro/480p15/Scene4_LimitPoint.mp4'

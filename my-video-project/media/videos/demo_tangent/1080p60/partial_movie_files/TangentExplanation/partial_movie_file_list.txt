@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:A:/ajaysonkar/Claude-Code-Video-Toolkit/my-video-project/media/videos/demo_tangent/1080p60/partial_movie_files/TangentExplanation/3373382780_2458349879_223132457.mp4'
+file 'file:A:/ajaysonkar/Claude-Code-Video-Toolkit/my-video-project/media/videos/demo_tangent/1080p60/partial_movie_files/TangentExplanation/4234509111_3880968470_3014043199.mp4'
+file 'file:A:/ajaysonkar/Claude-Code-Video-Toolkit/my-video-project/media/videos/demo_tangent/1080p60/partial_movie_files/TangentExplanation/4234509111_2213338074_2844107968.mp4'
+file 'file:A:/ajaysonkar/Claude-Code-Video-Toolkit/my-video-project/media/videos/demo_tangent/1080p60/partial_movie_files/TangentExplanation/4234509111_847192958_2739174872.mp4'
+file 'file:A:/ajaysonkar/Claude-Code-Video-Toolkit/my-video-project/media/videos/demo_tangent/1080p60/partial_movie_files/TangentExplanation/4234509111_2687188081_339554167.mp4'
+file 'file:A:/ajaysonkar/Claude-Code-Video-Toolkit/my-video-project/media/videos/demo_tangent/1080p60/partial_movie_files/TangentExplanation/4234509111_2197944496_534097754.mp4'
+file 'file:A:/ajaysonkar/Claude-Code-Video-Toolkit/my-video-project/media/videos/demo_tangent/1080p60/partial_movie_files/TangentExplanation/4234509111_847192958_4121015992.mp4'
+file 'file:A:/ajaysonkar/Claude-Code-Video-Toolkit/my-video-project/media/videos/demo_tangent/1080p60/partial_movie_files/TangentExplanation/4234509111_501538098_3838439556.mp4'
+file 'file:A:/ajaysonkar/Claude-Code-Video-Toolkit/my-video-project/media/videos/demo_tangent/1080p60/partial_movie_files/TangentExplanation/4234509111_2645707024_236183934.mp4'

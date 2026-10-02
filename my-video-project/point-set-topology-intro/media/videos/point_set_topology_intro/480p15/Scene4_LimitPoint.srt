@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:02,400
+Now the key upgrade. p is a limit point of S if every punctured ball about p still meets S.
+
+2
+00:00:02,400 --> 00:00:03,800
+Here is our set S.
+
+3
+00:00:03,800 --> 00:00:06,000
+Points of S accumulate arbitrarily close to p, distinct from p itself.
+
+4
+00:00:06,000 --> 00:00:08,400
+Watch epsilon shrink towards zero inside this punctured ball: p itself is removed.
+
+5
+00:00:08,400 --> 00:00:10,800
+At every instant, other points of S remain inside the punctured ball.
+
+6
+00:00:10,800 --> 00:00:13,300
+So p is a limit point of S, for every positive epsilon.
+
+7
+00:00:13,300 --> 00:00:15,100
+Contrast: an isolated point q of S, standing completely apart from the cluster.
+
+8
+00:00:15,100 --> 00:00:17,700
+Shrink delta until the punctured ball about q holds no other point of S.
+
+9
+00:00:17,700 --> 00:00:21,100
+The intersection is empty, so q is not a limit point. That is the whole distinction.
+
+10
+00:00:21,100 --> 00:00:22,700
+Open sets, boundaries, and limit points: all one shrinking-circle test.
+

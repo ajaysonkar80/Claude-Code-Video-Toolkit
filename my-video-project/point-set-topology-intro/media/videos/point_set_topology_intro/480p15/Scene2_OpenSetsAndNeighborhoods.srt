@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:02,800
+A subset U of X is open when every one of its points sits inside a smaller ball, still contained in U.
+
+2
+00:00:02,800 --> 00:00:04,600
+Render an arbitrary open candidate S.
+
+3
+00:00:04,600 --> 00:00:08,300
+Case A: an interior point x one. Some ball about it fits entirely inside S. Test satisfied.
+
+4
+00:00:08,333 --> 00:00:09,833
+Case B: put x two exactly on the boundary of S.
+
+5
+00:00:09,866 --> 00:00:14,066
+No matter how small epsilon becomes, the ball about x two always spills outside S into the complement.
+
+6
+00:00:14,066 --> 00:00:17,266
+So a boundary point never satisfies the open-set test: an open set cannot contain its own boundary.
+
+7
+00:00:17,266 --> 00:00:20,766
+Finally, any open set U containing x is called a neighborhood of x.
+

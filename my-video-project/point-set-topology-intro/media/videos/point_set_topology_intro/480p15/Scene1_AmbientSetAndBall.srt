@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:02,400
+Fix the underlying set X: the metric space of the plane, R squared.
+
+2
+00:00:02,400 --> 00:00:04,000
+Work inside the ambient coordinate plane.
+
+3
+00:00:04,000 --> 00:00:05,400
+Pick a point x in X.
+
+4
+00:00:05,400 --> 00:00:08,400
+The epsilon-ball about x is every point y whose distance to x is less than epsilon.
+
+5
+00:00:08,400 --> 00:00:11,900
+The dashed rim marks an open boundary: distances are strictly less than epsilon.
+
+6
+00:00:11,866 --> 00:00:13,066
+With the ball gadget in hand, we can define open sets.
+
